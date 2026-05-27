@@ -1,0 +1,6 @@
+{
+  "name": "Player Attendance Manager",
+  "description": "A professional player attendance management system featuring dynamic dashboards, secure JWT role-based authentication, player lists, and analytics charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
